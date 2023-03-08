@@ -1,5 +1,3 @@
-//import { createPatient, returnPatientStats } from './Patient.js'
-//import { actionAdmitPatient, actionDischargePatient, actionGivePatientTreatment, returnPatientStats } from './Actions.js'
 const Patient = require('./Patient')
 const Action = require('./Actions')
 const readline = require('readline')
